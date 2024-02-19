@@ -1,5 +1,5 @@
-https://www.mooncreative.com.tr/wp-content/uploads/2019/02/yazilim-banner.png.webp
 
+![alt text](https://larinsoft.com/assets/develop-software-banner.jpg)
 
 
 • Hi, I'm Burak Gonca.
