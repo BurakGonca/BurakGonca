@@ -1,3 +1,7 @@
+https://www.mooncreative.com.tr/wp-content/uploads/2019/02/yazilim-banner.png.webp
+
+
+
 • Hi, I'm Burak Gonca.
 
 • I graduated from Gazi University statistics department.
