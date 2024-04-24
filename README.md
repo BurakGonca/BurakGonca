@@ -8,7 +8,7 @@
 
 • I am developing myself in the field of Full Stack Software.
 
-• I am actively learning C# .Net, Sql Server, Entity FrameWork Core, HTML CSS and JavaScript.
+• I am actively learning C# .Net, Sql Server, Entity FrameWork Core, ASP.NET Core, HTML CSS and JavaScript.
 
 • I am passionate about graphic design, camping, nature walks and motorcycles.
 
