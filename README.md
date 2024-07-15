@@ -9,18 +9,6 @@
   </ul>
 </p>
 
-## Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/burak-gonca-262040295/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak gonca" height="30" width="40" /></a>
-  <a href="https://instagram.com/goncabrk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goncabrk" height="30" width="40" /></a>
-  <a href="https://youtube.com/channel/UCpe7cxGklYWE3fEEPTgt9og" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" /></a>
-</p>
-
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurakGonca&show_icons=true&theme=radical" alt="Burak Gonca's GitHub Stats" />
-</p>
-
 ## Badges
 <p align="left">
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -32,3 +20,14 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 </p>
+
+## Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/burak-gonca-262040295/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak gonca" height="30" width="40" /></a>
+  <a href="https://instagram.com/goncabrk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goncabrk" height="30" width="40" /></a>
+  <a href="https://youtube.com/channel/UCpe7cxGklYWE3fEEPTgt9og" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" /></a>
+</p>
+
+
+
+
